@@ -1,0 +1,19 @@
+{ 
+"carinfo": 
+{
+"oil-pressure":60 , 
+"RLtire-pressure":20,
+"RRtire-pressure":20,
+"FLtire-pressure":22,
+"FRtire-pressure":22,
+"engine-temperature":90,
+"battery-level":14
+},
+"dtc":
+[
+"P0138",
+"P0300",
+"P0700"
+]
+
+}
